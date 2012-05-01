@@ -1,0 +1,31 @@
+Currently, we have 4 test cases.
+
+empty.txt:
+
+This is an empty graph with 6 nodes.
+
+Optimal number of colors: 1
+Achieved number of colors: 1
+
+line.txt:
+
+This is a graph with 2 nodes and an edge between them
+
+Optimal number of colors: 2
+Achieved number of colors: 2
+
+tree.txt:
+
+This is a tree with 10 nodes
+
+Optimal number of colors: 2
+Achieved number of colors: 2
+
+graph.txt:
+
+This is the graph given in the problem description
+
+Optimal number of colors: 3
+Achieved number of colors: 3
+
+Judging by these results, I would say that the algorithm does well; although, it would need more extensive testing to see if its greatness held up in bigger graphs (I doubt it does).
