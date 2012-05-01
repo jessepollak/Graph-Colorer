@@ -2,6 +2,10 @@
 
 This is a script for coloring a graph created for my Discrete Mathematics class.
 
+To use, enter:
+
+    ruby graph_colorer.rb graph.txt
+
 Input format: the input file will have one line with the number of vertices and the number of edges. There will then be one line for each edge, each line will contain two integers identifying the endpoints, the smaller number will be listed first. 
 
 INPUT:
