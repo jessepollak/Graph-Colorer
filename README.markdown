@@ -6,13 +6,13 @@ Input format: the input file will have one line with the number of vertices and 
 
 INPUT:
 
-5 6
-1 2
-1 4
-1 5
-2 4
-2 5
-3 4
+5 6  
+1 2  
+1 4  
+1 5  
+2 4  
+2 5  
+3 4  
 
 OUTPUT:
 
