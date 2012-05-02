@@ -30,11 +30,11 @@ This is the graph given in the problem description
 Optimal chromatic number: 3
 Achieved chromatic number: 3
 
-Judging by these results, I would say that the algorithm does well; although, it would need more extensive testing to see if its greatness held up in bigger graphs (I doubt it does).
-
 ##complete.txt:
 
 This is a K5 complete graph
 
 Optimal chromatic number: 5
 Achieved chromatic number: 5
+
+Judging by these results, I would say that the algorithm does well; although, it would need more extensive testing to see if its greatness held up in bigger graphs (I doubt it does).
